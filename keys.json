@@ -1,0 +1,22 @@
+{
+  "v": 1,
+  "app": "Item Creation shared brand prices",
+  "kdf": {
+    "name": "scrypt",
+    "N": 131072,
+    "r": 8,
+    "p": 1
+  },
+  "reader": {
+    "salt": "bJ81iDQ30xsNOvtrM7w4rg==",
+    "iv": "04WqHyeEDkE+QYOO",
+    "tag": "4zppIcIJXwUx6xgG2DP+WQ==",
+    "data": "fvLENqOtK35LTMI9eOGMS0fqhkj3SbDj40RXkxB2xgY="
+  },
+  "admin": {
+    "salt": "1iuFZGkghevuWRm7cHIKkA==",
+    "iv": "gXy+hSjIWv/hOadQ",
+    "tag": "H4o/70p/JeiJAku49PgszA==",
+    "data": "rCH8rL78fZ3TBCOTXHRwxsD6m5kV+o4RlaQOTh2O+IKdFFN/KycdUQfO+tbwfU3mGzQO/J85fUEVwWMQbRhDyV3Ub4G/dnceO2+OQZvvAav3+h5cvt8XgluwIzWB37c9EG9vKJk/uV5p82kNNOPsRXsiUHi8C+0NYic7L4VetTQquOheY1+jwlTiifeXY4e8M24wXk9Qp1sQV8oSlg=="
+  }
+}
